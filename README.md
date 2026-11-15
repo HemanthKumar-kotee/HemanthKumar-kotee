@@ -61,21 +61,4 @@ An AI-powered intelligence system designed to monitor the US K12 education ecosy
 
 **Tech:** `Python` `LangGraph` `Gemini` `FastAPI` `PostgreSQL`
 
-🔗 [Source Code](YOUR_K12_REPOSITORY_URL) | 🌐 [Live Demo](YOUR_K12_DEMO_URL)
-
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HemanthKumar-kotee&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthKumar-kotee&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in AI Engineering, Generative AI, Agentic AI, and Data Engineering opportunities.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemanthKumar-kotee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
+🌐 [Live Demo](https://k12-educationalintelliegnce-koteehkumar-6510.vercel.app/)
